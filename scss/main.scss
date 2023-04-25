@@ -1,0 +1,11 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/functions";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 16px;
+  font-weight: 400;
+}
