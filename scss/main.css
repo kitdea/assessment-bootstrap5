@@ -11153,4 +11153,9 @@ h2, .h2 {
   width: 40px;
   height: auto;
 }
+
+.card img {
+  width: 80px;
+  height: auto;
+}
 /*# sourceMappingURL=main.css.map */
