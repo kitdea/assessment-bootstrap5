@@ -11145,6 +11145,10 @@ body {
   font-weight: 400;
 }
 
+body p {
+  margin-bottom: 0 !important;
+}
+
 h2, .h2 {
   font-weight: 700;
 }
@@ -11157,5 +11161,10 @@ h2, .h2 {
 .card img {
   width: 80px;
   height: auto;
+}
+
+.container_feat {
+  width: 100%;
+  max-width: 900px !important;
 }
 /*# sourceMappingURL=main.css.map */
