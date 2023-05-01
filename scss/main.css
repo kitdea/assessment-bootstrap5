@@ -11167,4 +11167,9 @@ h2, .h2 {
   width: 100%;
   max-width: 900px !important;
 }
+
+.accordion {
+  --bs-accordion-active-color: #ffffff;
+  --bs-accordion-active-bg: #2c2c2c;
+}
 /*# sourceMappingURL=main.css.map */

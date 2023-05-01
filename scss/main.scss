@@ -1,7 +1,11 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import "../node_modules/bootstrap/scss/functions";
 
+// Default variable overrides
+
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
 
 
 body {
@@ -32,4 +36,11 @@ h2{
   width: 100%;
   max-width: 900px !important;
 }
+
+// Accordion focus
+.accordion {
+  --bs-accordion-active-color: #ffffff;
+  --bs-accordion-active-bg: #2c2c2c;
+}
+
 
